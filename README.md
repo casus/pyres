@@ -4,14 +4,14 @@ Python Package to calculate image resolution using decorrelation analysis
 # Installation
 
 ```bash
-pip install git+https://github.com/Shutterbug2109/PyRes.git
+pip install https://github.com/casus/pyres.git
 ```
 
 # To try out the examples and understand the usage of PyRes
 Clone the repository and run the following commands
 
 ```bash
-git clone https://github.com/Shutterbug2109/PyRes.git
+git clone https://github.com/casus/pyres.git
 ```
     
 ```bash
